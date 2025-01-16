@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/mei-pan/TensorFlow_Developer_Professional_Specialization/blob/main/TensorFlow%20Logo.jpg" alt="Image description" width='auto', height='200'>
+</p>
+
+
 # Natural Language Processing Specialization [Link](https://www.coursera.org/specializations/natural-language-processing).
 
 This specialization is a series of 4 courses offered by Deeplearning.ai focuses on cutting-edge NLP techniques. 
