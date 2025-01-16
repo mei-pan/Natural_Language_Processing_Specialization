@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_shutterstock_raindrop74-1507366230.jpg" alt="Image description" width='auto', height='300'>
+  <img src="https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_shutterstock_raindrop74-1507366230.jpg" alt="Image description" width='auto', height='200'>
 </p>
 
 
