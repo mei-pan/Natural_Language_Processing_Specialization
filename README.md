@@ -20,9 +20,10 @@
       
   - #### Week 2
     -  Objective: 
-    -  Assignment: 
-    -  Labs: 
-      - Exercsise 1: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLPS_C1W1_Lab1.ipynb)
+    -  #### Assignment: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W2_Navie%20Bayes.ipynb)
+        Sentiment analysis of tweets with Naive Bayes model.
+    -  #### Labs: 
+        Exercsise 1: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLPS_C1W1_Lab1.ipynb)
         - Soft introduction to text preprocessing workflow and method (tokenziation, stop words and punctuation removal, and stemming) using tweet data and releavant library(i.e NLTK).
    
   - #### Week 3
