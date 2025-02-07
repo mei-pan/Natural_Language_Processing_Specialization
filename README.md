@@ -11,8 +11,8 @@
   
   - #### Week 1:
     - Objective: Using logistic regression for sentiment analysis tasks. 
-    -  #### Assignment:
-        Sentiment analysis with Logistc Regression 
+    -  #### Assignment: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb)
+        Sentiment analysis of tweets with Logistc Regression 
     -  #### Labs: 
         Exercsise 1: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLPS_C1W1_Lab1.ipynb)
           - Soft introduction to text preprocessing workflow and method (tokenziation, stop words and punctuation removal, and stemming) using tweet data and releavant library(i.e NLTK).
