@@ -33,8 +33,8 @@
   #### Assignment:
       
 
-### Course 2: Convolutional NN in TensorFlow
+## Course 2: Convolutional NN in TensorFlow
 
-### Course 3: Natural Language Processing in TensorFlow
+## Course 3: Natural Language Processing in TensorFlow
 
-### Course 4: Sequences, Time Series and Prediction 
+## Course 4: Sequences, Time Series and Prediction 
