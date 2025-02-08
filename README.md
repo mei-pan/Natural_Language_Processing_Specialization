@@ -11,29 +11,23 @@
   
   - #### Week 1:
     - Objective: understand the logic behinde logistic regression for sentiment analysis tasks. 
-    -  #### Assignment: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb)
+    -  #### Assignment: Logistic Regression [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb)
         Sentiment analysis of tweets with Logistc Regression 
-    -  #### Labs: 
-        Exercsise 1: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLPS_C1W1_Lab1.ipynb)
-          - Soft introduction to text preprocessing workflow and method (tokenziation, stop words and punctuation removal, and stemming) using tweet data and releavant library(i.e NLTK).
+   
       
       
   - #### Week 2
     -  Objective: understand the logic behind naive bayes for sentiment analysis tasks. 
-    -  #### Assignment: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W2_Navie%20Bayes.ipynb)
+    -  #### Assignment: Naive Bayes  [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W2_Navie%20Bayes.ipynb)
         Sentiment analysis of tweets with Naive Bayes model.
-    -  #### Labs: 
-        Exercsise 1: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLPS_C1W1_Lab1.ipynb)
-        - Soft introduction to text preprocessing workflow and method (tokenziation, stop words and punctuation removal, and stemming) using tweet data and releavant library(i.e NLTK).
+   
    
   - #### Week 3
     -  Objective: understand vectors spaces, ways to ultilize euclidean distance and cosine similiarity to find similar and dissimilar items with embeddings and PCA 
     -  #### Assignment: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W3_Vector_Space_Model.ipynb)
         Ultilize vector space and vector embeddings to build a function that predict the name of capital the city given the country name.
         project also include building a functions that computes PCA. 
-    -  #### Labs: 
-        Exercsise 1: [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLPS_C1W1_Lab1.ipynb)
-        - Soft introduction to text preprocessing workflow and method (tokenziation, stop words and punctuation removal, and stemming) using tweet data and releavant library(i.e NLTK).
+    
   - #### Week 4
       
 
