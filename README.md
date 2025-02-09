@@ -10,27 +10,27 @@
   Objective: Using logistic regression, naïve Bayes and word vector to implement sentiment analysis, complete analogies and word translation.  
   
 #### Week 1:
-  #### Objective: understand the logic behinde logistic regression for sentiment analysis tasks. 
-  #### Assignment: Logistic Regression [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb).  
-  - Sentiment analysis of tweets with Logistc Regression 
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: understand the logic behinde logistic regression for sentiment analysis tasks.   
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Logistic Regression [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb).      
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Sentiment analysis of tweets with Logistc Regression.  
    
       
       
 #### Week 2:
-  #### Objective: understand the logic behind naive bayes for sentiment analysis tasks. 
-  #### Assignment: Naive Bayes  [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W2_Navie%20Bayes.ipynb)
-  - Sentiment analysis of tweets with Naive Bayes model.
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: understand the logic behind naive bayes for sentiment analysis tasks.  
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Naive Bayes  [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W2_Navie%20Bayes.ipynb)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Sentiment analysis of tweets with Naive Bayes model.
    
    
 #### Week 3:
-  #### Objective: understand vectors spaces, ways to ultilize euclidean distance and cosine similiarity to find similar and dissimilar items with embeddings and PCA 
-  #### Assignment: Vector Space Model & PCA [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W3_Vector_Space_Model.ipynb)
-  - Ultilize vector space and vector embeddings to build a function that predict the name of capital the city given the country name.
-  - project also include building a functions that computes PCA. 
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: understand vectors spaces, ways to ultilize euclidean distance and cosine similiarity to find similar and dissimilar items with embeddings and PCA.      
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Vector Space Model & PCA [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W3_Vector_Space_Model.ipynb).       
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ultilize vector space and vector embeddings to build a function that predict the name of capital the city given the country name.   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- project also include building a functions that computes PCA. 
     
 #### Week 4:
-  #### Objective: 
-  #### Assignment:
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__:      
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__:
       
 
 ## Course 2: Convolutional NN in TensorFlow
