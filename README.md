@@ -30,7 +30,7 @@
     
 #### Week 4:
   &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: TBD      
-  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Machine Translation and LSH (Local Sensitive Hashing) [Linl](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Machine Translation and LSH (Local Sensitive Hashing) [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  TBD 
 
 ## Course 2: Convolutional NN in TensorFlow
