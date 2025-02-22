@@ -29,11 +29,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- project also include building a functions that computes PCA. 
     
 #### Week 4:
-  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: TBD      
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: 🚧      
   &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Machine Translation and LSH (Local Sensitive Hashing) [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  TBD 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  🚧
 
 ## Course 2: Convolutional NN in TensorFlow
+#### Week 1:
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: 🚧   
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Autocorrection [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W1_Autocorrect/NLP_C2_W1_Autocorrect.ipynb).      
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🚧  
 
 ## Course 3: Natural Language Processing in TensorFlow
 
