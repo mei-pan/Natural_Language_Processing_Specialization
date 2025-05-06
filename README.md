@@ -29,16 +29,23 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- project also include building a functions that computes PCA. 
     
 #### Week 4:
-  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: 🚧      
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: Learn to transform word vectors and assign them to subsets using locality sensitive hashing, in order to perform machine translation and document search.      
   &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Machine Translation and LSH (Local Sensitive Hashing) [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  🚧
+  
 
-## Course 2: Convolutional NN in TensorFlow
+## Course 2: Natural Language Processing with Probabilstic Models 
 #### Week 1:
-  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: 🚧   
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: Learn about autocorrect, minimum edit distance, and dynamic programming, then build a spellchecker to correct misspelled words!  
   &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Autocorrection [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W1_Autocorrect/NLP_C2_W1_Autocorrect.ipynb).      
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🚧  
+ 
+#### Week 2:
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Objective***__: Learn about Markov and Hidden Markov Models as well as Viterbi Algorithm to create a part-of-speech(POS) tags for a Wall Street Journal text corpus.   
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: POS Tagging [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W2_POS_Tagging/C2_W2_Assignment.ipynb).      
+ 
 
+
+
+  
 ## Course 3: Natural Language Processing in TensorFlow
 
 ## Course 4: Sequences, Time Series and Prediction 
