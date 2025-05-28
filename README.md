@@ -48,8 +48,8 @@ Learn about how N-gram language models work by calculating sequence probabilitie
   &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Autocomplete [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W3_Autocomplete/C2_W3_Assignment.ipynb).   
 
 #### Week 4: 
-Learn methods to built word embedding from scarch 
-  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Word Embeddings [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W4_Word_Embeddings/C2_W4_Assignment.ipynb).
+Learn methods to built word embedding from scarch.        
+  &nbsp;&nbsp;&nbsp;&nbsp;__***Assignment***__: Word Embeddings [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W4_Word_Embeddings/C2_W4_Assignment.ipynb).
  
 
 
