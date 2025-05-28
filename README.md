@@ -45,7 +45,11 @@ Learn about Markov and Hidden Markov Models as well as Viterbi Algorithm to crea
  
 #### Week 3: 
 Learn about how N-gram language models work by calculating sequence probabilities, then build an autocomplete language model using a text corpus from Twitter!   
-  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Autocomplete [Link]().      
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Autocomplete [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W3_Autocomplete/C2_W3_Assignment.ipynb).   
+
+#### Week 4: 
+Learn methods to built word embedding from scarch 
+  &nbsp;&nbsp;&nbsp;&nbsp; __***Assignment***__: Word Embeddings [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W4_Word_Embeddings/C2_W4_Assignment.ipynb).
  
 
 
